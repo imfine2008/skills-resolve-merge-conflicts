@@ -19,7 +19,7 @@ _Learn why conflicts happen and how to resolve them._
 -->
 
 <details id=0>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>Welcome test</h2></summary>
 
 Merge conflicts happen when two people make changes to the same file on GitHub—a common occurrence when you’re working with others. While resolving differences might involve some discussion, merge conflicts don’t have to be scary. This course guides you through the steps to finding the best merge conflict solution, so your team can keep building.
 
